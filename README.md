@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SumithChandran
 - 👀 I’m interested in tech and games
-- 🧑‍💻 I’m  Linux Engineer
+- 🧑‍💻 I’m  DevOps Engineer
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me search my name😁
+- 📫 How to reach me? search my name😁
 
 <!---
 SumithChandran/SumithChandran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
